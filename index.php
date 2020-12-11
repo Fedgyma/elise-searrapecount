@@ -3,7 +3,7 @@
 <?php
 $debug = "debug";
 
-$serveur ="192.198.0.7";
+$serveur ="localhost";
 
 
 $login = "rasppsql";
